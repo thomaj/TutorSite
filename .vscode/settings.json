@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/bc12c0b3-4e97-480b-950f-cb11eea0563a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/TutorSite",
+  "appService.deploySubpath": ""
+}
